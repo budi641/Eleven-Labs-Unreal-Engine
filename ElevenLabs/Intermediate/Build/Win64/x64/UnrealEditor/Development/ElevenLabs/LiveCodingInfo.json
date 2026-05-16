@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ElevenLabs.cpp.obj": [
+			"ElevenLabs.init.gen.cpp.obj",
+			"ElevenLabsAudioLibrary.gen.cpp.obj",
+			"ElevenLabsSettings.gen.cpp.obj",
+			"ElevenLabsSynthesizeTextAsync.gen.cpp.obj",
+			"ElevenLabsTTSTypes.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"ElevenLabsLog.cpp.obj",
+			"ElevenLabsModule.cpp.obj",
+			"ElevenLabsSettings.cpp.obj",
+			"ElevenLabsSynthesizeTextAsync.cpp.obj",
+			"ElevenLabsTTSService.cpp.obj",
+			"ElevenLabsWavBuilder.cpp.obj",
+			"ElevenLabsAudioLibrary.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ElevenLabs.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/aamee/OneDrive/Documents/Unreal Projects/Mars/Intermediate/Build/Win64/x64/MarsEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/aamee/OneDrive/Documents/Unreal Projects/Mars/Plugins/ElevenLabs/Intermediate/Build/Win64/x64/UnrealEditor/Development/ElevenLabs/Module.ElevenLabs.cpp.obj"
+"C:/Users/aamee/OneDrive/Documents/Unreal Projects/Mars/Plugins/ElevenLabs/Intermediate/Build/Win64/x64/UnrealEditor/Development/ElevenLabs/ElevenLabsAudioLibrary.cpp.obj"
+"C:/Users/aamee/OneDrive/Documents/Unreal Projects/Mars/Plugins/ElevenLabs/Intermediate/Build/Win64/x64/UnrealEditor/Development/ElevenLabs/Default.rc2.res"
+/OUT:"C:/Users/aamee/OneDrive/Documents/Unreal Projects/Mars/Plugins/ElevenLabs/Intermediate/Build/Win64/x64/UnrealEditor/Development/ElevenLabs/UnrealEditor-ElevenLabs.lib"

@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\intermediate\\build\\win64\\x64\\unrealgame\\development\\elevenlabs\\module.elevenlabs.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\intermediate\\build\\win64\\x64\\mars\\development\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\intermediate\\build\\win64\\x64\\unrealgame\\development\\elevenlabs\\definitions.elevenlabs.h",
+            "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\intermediate\\build\\win64\\unrealgame\\inc\\elevenlabs\\uht\\elevenlabs.init.gen.cpp",
+            "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\intermediate\\build\\win64\\unrealgame\\inc\\elevenlabs\\uht\\elevenlabsaudiolibrary.gen.cpp",
+            "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\source\\elevenlabs\\public\\elevenlabsaudiolibrary.h",
+            "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\intermediate\\build\\win64\\unrealgame\\inc\\elevenlabs\\uht\\elevenlabsaudiolibrary.generated.h",
+            "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\intermediate\\build\\win64\\unrealgame\\inc\\elevenlabs\\uht\\elevenlabssettings.gen.cpp",
+            "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\source\\elevenlabs\\public\\elevenlabssettings.h",
+            "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\intermediate\\build\\win64\\unrealgame\\inc\\elevenlabs\\uht\\elevenlabssettings.generated.h",
+            "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\intermediate\\build\\win64\\unrealgame\\inc\\elevenlabs\\uht\\elevenlabssynthesizetextasync.gen.cpp",
+            "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\source\\elevenlabs\\public\\elevenlabssynthesizetextasync.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\blueprintasyncactionbase.generated.h",
+            "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\source\\elevenlabs\\public\\elevenlabsttstypes.h",
+            "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\intermediate\\build\\win64\\unrealgame\\inc\\elevenlabs\\uht\\elevenlabsttstypes.generated.h",
+            "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\intermediate\\build\\win64\\unrealgame\\inc\\elevenlabs\\uht\\elevenlabssynthesizetextasync.generated.h",
+            "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\intermediate\\build\\win64\\unrealgame\\inc\\elevenlabs\\uht\\elevenlabsttstypes.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

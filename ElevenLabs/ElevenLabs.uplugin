@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"FriendlyName": "Eleven Labs",
+	"Description": "Runtime ElevenLabs integration for text-to-speech and future speech tooling.",
+	"Category": "Audio",
+	"CreatedBy": "Mars",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Modules": [
+		{
+			"Name": "ElevenLabs",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\source\\elevenlabs\\private\\elevenlabsmodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\intermediate\\build\\win64\\x64\\mars\\development\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\intermediate\\build\\win64\\x64\\unrealgame\\development\\elevenlabs\\definitions.elevenlabs.h",
+            "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\source\\elevenlabs\\public\\elevenlabsmodule.h",
+            "c:\\users\\aamee\\onedrive\\documents\\unreal projects\\mars\\plugins\\elevenlabs\\source\\elevenlabs\\public\\elevenlabslog.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
